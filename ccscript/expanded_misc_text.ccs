@@ -251,12 +251,12 @@ define PSIPrompt = "@PSI Bilgisi i[B3]in -A-'ya bas."
 
 // Offsets. //
 define OFFSET_X_Level_Status = 8
-define OFFSET_X_HitPoints = 43
+define OFFSET_X_HitPoints = 34
 define OFFSET_X_PsychicPoints = 23
 define OFFSET_X_ExpPoints = 11
 define OFFSET_X_ExpForNextLevel = 56
 define OFFSET_X_Offense = 163
-define OFFSET_X_Defense = 164
+define OFFSET_X_Defense = 160
 define OFFSET_X_Speed = 178
 define OFFSET_X_Guts = 156
 define OFFSET_X_Vitality = 166
