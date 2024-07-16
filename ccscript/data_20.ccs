@@ -196,7 +196,7 @@ l_0xc66d3e:
     "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@O ses neydi?" next
     "@[1C 02 01],{pause(15)} sen korkmu[B1] gibi g[B9]z[BB]kmiyorsun.{pause(20)}  Deli felan m[B7]s[B7]n?" next
     "@[B0]imdide gidip noldu[B5]na bakmak m[B7] istiyorsun?{pause(15)}  ...neyse{pause(15)} ...tamam." next
-    "@Sen zaten izinsiz gizli gizli odandan [B3][B7]kars[B7]n de[B5]il mi?,{pause(15)} ...ah sen ne kadar bi belas[B7]n lan." next
+    "@Sen zaten izinsiz gizli gizli odandan [B3][B7]kars[B7]n de[B5]il mi?,{pause(15)} ...[BB]stelik sana izin vermedi[B5]m halde." next
     "@Neyse, Giderken en az[B7]ndan pijamalar[B7]n[B7] de[B5]i[B1]tir ya.[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
 
 l_0xc66df2:
