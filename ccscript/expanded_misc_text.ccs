@@ -28,7 +28,7 @@ define StatusAilment10 = "Eve Hasret"
 
 // Max Length 31 //
 define AutoFight = "Oto Sava[B1]"
-define Bash = "Darbe"
+define Bash = "Vur"
 define Defend = "Savun"
 define DoNothing = "Bir[B1]ey Yapma"
 define BattleGoods = "E[B1]yalar"
