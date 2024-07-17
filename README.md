@@ -1,5 +1,5 @@
 # Earthbound Turkish Fan Translation Project
-(*Still in the early stages of development. Help would be very appreciated.*)
+(*Still in the early stages of development. Contributions are very appreciated.*)
 
 ![Screenshot 2024-07-17 141750](https://github.com/user-attachments/assets/cc3bf111-e575-4eea-bdf2-a9cd89092c7e)
 ![Screenshot 2024-07-17 142001](https://github.com/user-attachments/assets/c257bbb7-9ffb-46b1-8173-3e20f0089023)
